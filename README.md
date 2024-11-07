@@ -11,4 +11,4 @@ Modular code to interact with the MOR contracts, stats, and graphs.  Cataloged i
 5) [Frontend Repository](https://github.com/NirmaanAI/stats-graphs-and-endpoints/tree/main/morpheus-metrics-dashboard-frontend)
 6) [Backend Repository](https://github.com/NirmaanAI/stats-graphs-and-endpoints/tree/main/morpheus-metrics-dashboard)
 7) [API Code](https://github.com/NirmaanAI/stats-graphs-and-endpoints/blob/main/morpheus-metrics-dashboard/main.py)
-8) [Codepen](https://codepen.io/collection/ZMddxz)
+8) [Codepen](https://codepen.io/collection/VYopJj)
