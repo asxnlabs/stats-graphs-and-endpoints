@@ -4,7 +4,17 @@
 
 The Morpheus AI Metrics Dashboard is a comprehensive tool designed to provide detailed insights into the Supply, Staking, Capital and Code Metrics for the MorpheusAI Community and its native token $MOR. This dashboard serves as a central hub for community members, stakers and developers to access critical data and analytics.
 
-## Useful Links:
+## New (V2) Useful Links:
+1) [V2 Frontend Integrations](https://nirmaans-organization.gitbook.io/morpheus-metrics-dashboard/frontend/markdown/frontend-integrations-v2)
+2) [Capital API Endpoints](https://nirmaans-organization.gitbook.io/morpheus-metrics-dashboard/api-reference/capital-endpoints)
+3) [Code API Endpoints](https://nirmaans-organization.gitbook.io/morpheus-metrics-dashboard/api-reference/code-metrics)
+4) [Backend Capital Helpers](https://nirmaans-organization.gitbook.io/morpheus-metrics-dashboard/backend/api-helpers/capital-helpers)
+5) [Backend Code Helpers](https://nirmaans-organization.gitbook.io/morpheus-metrics-dashboard/backend/api-helpers/code-helpers)
+6) [Updated Codepen Collection](https://codepen.io/collection/VYopJj)
+7) [Frontend Repository](https://github.com/NirmaanAI/stats-graphs-and-endpoints/tree/v2/morpheus-metrics-dashboard-frontend)
+8) [Backend Repository](https://github.com/NirmaanAI/stats-graphs-and-endpoints/tree/v2/morpheus-metrics-dashboard)
+   
+## All Useful Links:
 1) [Morpheus AI Metrics Dashboard](https://mor-explorer-frontend.pages.dev/supply)
 2) [Gitbook Catalog](https://nirmaans-organization.gitbook.io/morpheus-metrics-dashboard)
 2) [API Reference](https://nirmaans-organization.gitbook.io/morpheus-metrics-dashboard/api-reference/introduction)
