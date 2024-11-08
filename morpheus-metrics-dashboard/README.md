@@ -1,4 +1,4 @@
-# MOR Explorer Backend V2
+# MOR Metrics Dashboard Backend V2
 
 ## How to Run:
 
